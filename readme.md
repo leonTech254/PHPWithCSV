@@ -1,4 +1,4 @@
-# DEAL WITH USER CSV
+# PHPWithCSV
 
 Define the data-The code begins by defining an array called $data, which represents the rows of the CSV file. Each element of the array corresponds to a row, and each row is an array containing the values for each column.
 

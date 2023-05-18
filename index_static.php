@@ -13,7 +13,6 @@ foreach ($data as $row) {
 }
 fclose($file);
 
-// Call the download function
 download($filename);
 
 function download($filename)
